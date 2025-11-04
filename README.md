@@ -6,12 +6,6 @@
 
 ---
 
-### 🚀 Current Focus
-- Improving my data thinking and full-stack skills
-- Preparing for 2025 Summer SWE internships
-
----
-
 ### 🛠 Technical Skills
 **Languages:** Java, Python, TypeScript, JavaScript, Swift, HTML/CSS  
 **Frameworks & Platforms:** Next.js, React, Django, Firebase, AWS, Spring MVC  
